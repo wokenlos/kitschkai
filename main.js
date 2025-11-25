@@ -137,6 +137,7 @@ function showProjectPreview(key) {
       link: 'https://kon-paper.com/ausgabe-hybrid',
       images: [
       ]
+    },
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
