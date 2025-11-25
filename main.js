@@ -143,9 +143,9 @@ function showProjectPreview(key) {
       year: '2024 — ongoing',
       desc: 'A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig)',
       images: [
-        { src: 'images/knutschen_1.JPEG', meta: 'Studioaufnahme, 2025' },
-        { src: 'images/knutschen_2.jpeg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' },
-        { src: 'images/knutschen_3.JPeG', meta: 'Dokumentation Performance Wxssxrschxdxn, 2025' },
+        { src: 'images/knutschen_1.jpg', meta: 'Studioaufnahme, 2025' },
+        { src: 'images/knutschen_2.jpg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' },
+        { src: 'images/knutschen_3.jpg', meta: 'Dokumentation Performance Wxssxrschxdxn, 2025' },
       ]
     },
     'cassandra': {
@@ -220,13 +220,13 @@ function showProjectPreview(key) {
       desc: '‚Apotheca Shady Hearts‘ was a collective performance with Toni Böckle, Una Herbst, Mona Gablenz, Stella Ruszkowski and Mara Engelsberger at the ABK Stuttgart Rundgang. Several happenings and participatory performances took place over the course of three days (see the poster with the time schedule) which dealed parallely with heteronormative romance narratives and institutional power structures.',
       images: [
         { src: 'images/apotheca_0.jpg', meta: 'Timetable der Apotheca Shady Hearts, 2023' },
-        { src: 'images/apotheca_1.png', meta: 'Dokumentation der Opening-Performance, 2023' },
+        { src: 'images/apotheca_1.jpg', meta: 'Dokumentation der Opening-Performance, 2023' },
         { src: 'images/apotheca_2.png', meta: 'Flyer für Happening "Collective Crushing"' },
-        { src: 'images/apotheca_3.jpeg', meta: 'Dokumentation Happening "Sexting", 2023' },
-        { src: 'images/apotheca_4.jpeg', meta: 'Dokumentation Apotheca Shady Hearts, 2023' },
+        { src: 'images/apotheca_3.jpg', meta: 'Dokumentation Happening "Sexting", 2023' },
+        { src: 'images/apotheca_4.jpg', meta: 'Dokumentation Apotheca Shady Hearts, 2023' },
         { src: 'images/apotheca_5.jpeg', meta: 'Dokumentation Apotheca Shady Hearts, 2023' },
         { src: 'images/apotheca_6.jpeg', meta: 'Dokumentation Apotheca Shady Hearts, 2023' }, 
-        { src: 'images/apotheca_7.jpeg', meta: 'Dokumentation Apotheca Shady Hearts, 2023' }
+        { src: 'images/apotheca_7.jpg', meta: 'Dokumentation Apotheca Shady Hearts, 2023' }
       ]
     },
       'tba': {
@@ -238,8 +238,8 @@ function showProjectPreview(key) {
         { src: 'images/tba_2.jpeg', meta: 'Invitation Graphic from "text + body = action", 2022' },
         { src: 'images/tba_3.jpeg', meta: 'Ausschnitt aus "text + body = action", 2022' },
         { src: 'images/tba_4.jpg', meta: 'Dokumentation "this is a hybrid cloud", 2022' },
-        { src: 'images/tba_5.jpeg', meta: 'Studioaufnahme, 2022' },
-        { src: 'images/tba_6.jpeg', meta: 'Studioaufnahme, 2022' },
+        { src: 'images/tba_5.jpg', meta: 'Studioaufnahme, 2022' },
+        { src: 'images/tba_6.jpg', meta: 'Studioaufnahme, 2022' },
         { src: 'images/tba_7.jpeg', meta: 'Studioaufnahme, 2022' }
       ]
     },
@@ -257,10 +257,10 @@ function showProjectPreview(key) {
       desc: 'Paintings from 2025, dedicated to a monstrouos history of flinta* bodies.',
       images: [
         { src: 'images/grwl_1.jpg', meta: '"grwl", 2025' },
-        { src: 'images/grwl_2.JPG', meta: '"grwl", 2025' },
-        { src: 'images/grwl_3.jpeg', meta: 'Studioaufnahme "nackt transparent", 2025' },
-        { src: 'images/grwl_4.jpeg', meta: 'Detail "nackt transparent", 2025' },
-        { src: 'images/grwl_5.jpeg', meta: 'Detail "nackt transparent", 2025' }
+        { src: 'images/grwl_2.jpg', meta: '"grwl", 2025' },
+        { src: 'images/grwl_3.jpg', meta: 'Studioaufnahme "nackt transparent", 2025' },
+        { src: 'images/grwl_4.jpg', meta: 'Detail "nackt transparent", 2025' },
+        { src: 'images/grwl_5.jpg', meta: 'Detail "nackt transparent", 2025' }
       ]
     },
     'eckert': {
@@ -268,8 +268,8 @@ function showProjectPreview(key) {
       year: '2025',
       desc: 'Visual Art for ECKERT Band, including a poster, graphic artwork as merch and a portrait series. Artwork: A3 digital print (edition of 50).',
       images: [
-        { src: 'images/eckert_1.png', meta: 'Artwork, 2025' },
-        { src: 'images/eckert_2.png', meta: 'Poster, 2025' },
+        { src: 'images/eckert_1.jpg', meta: 'Artwork, 2025' },
+        { src: 'images/eckert_2.jpg', meta: 'Poster, 2025' },
       ]
     },
     'figure': {
@@ -287,13 +287,13 @@ function showProjectPreview(key) {
       year: '2024',
       desc: 'The visual side of this working process in the neccessity and privilege to feel. Dealing with fragility, shame, anger, desire, trust, and queering the body and its relationships. Materials used: old bed sheets, crayons, acrylic, carpet, trinkets, chains, etc. Exhibition in KKT Stuttgart created around a series of my paintings.',
       images: [
-        { src: 'images/kwadbilder_1.jpeg', meta: 'Ausstellungsdokumentation, 2024' },
-        { src: 'images/kwadbilder_2.jpeg', meta: 'Ausstellungsdokumentation, 2024' },
-        { src: 'images/kwadbilder_3.JPG', meta: 'Detail' },
-        { src: 'images/kwadbilder_4.jpeg', meta: 'Ausstellungsdokumentation, 2024' },
-        { src: 'images/kwadbilder_5.jpeg', meta: 'Ausstellungsdokumentation, 2024' },
-        { src: 'images/kwadbilder_6.jpeg', meta: 'Ausstellungsdokumentation, 2024' },
-        { src: 'images/kwadbilder_7.jpeg', meta: 'Ausstellungsdokumentation, 2024' }
+        { src: 'images/kwadbilder_1.jpg', meta: 'Ausstellungsdokumentation, 2024' },
+        { src: 'images/kwadbilder_2.jpg', meta: 'Ausstellungsdokumentation, 2024' },
+        { src: 'images/kwadbilder_3.jpg', meta: 'Detail' },
+        { src: 'images/kwadbilder_4.jpg', meta: 'Ausstellungsdokumentation, 2024' },
+        { src: 'images/kwadbilder_5.jpg', meta: 'Ausstellungsdokumentation, 2024' },
+        { src: 'images/kwadbilder_6.jpg', meta: 'Ausstellungsdokumentation, 2024' },
+        { src: 'images/kwadbilder_7.jpg', meta: 'Ausstellungsdokumentation, 2024' }
       ]
     },
     'jazzkabinett': {
@@ -301,13 +301,13 @@ function showProjectPreview(key) {
       year: '2024',
       desc: 'Poster & FLyer Design for Jazzkabinett Stuttgart 2025.',
       images: [
-        { src: 'images/jazzkabinett_1.png', meta: 'Flyer' }
+        { src: 'images/jazzkabinett_1.jpg', meta: 'Flyer' }
       ]
     },
     'drawings': {
       title: 'drawings',
       year: 'ongoing',
-      desc: 'A colletion of digital and analog drawings :3.',
+      desc: 'A colletion of digital and analog drawings :3. ... coming soon',
       images: [
         { src: 'images/drawings_1.jpg', meta: 'title, 2024' }
       ]
@@ -317,7 +317,7 @@ function showProjectPreview(key) {
       year: '2023-2024',
       desc: 'Artistic research project with Lea Lenk. It followed the call for an international trans*feminist digital depletion strike (8th march 2023) against BigTech companies and their extractivist and exploitative dynamics. We organized an open call for imaginative zine-making in Stuttgart and maintained an exchange on local, care-based and anti-BigTech apporaches to art pedagogy and creativity.',
       images: [
-        { src: 'images/transfem_1.png', meta: 'Flyer for zine, 2023' },
+        { src: 'images/transfem_1.jpg', meta: 'Flyer for zine, 2023' },
         { src: 'images/transfem_2.png', meta: 'Screenshot from zine webseite, 2023' }
       ]
     },
