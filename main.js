@@ -35,7 +35,7 @@ document.querySelectorAll('.start-links .link').forEach(el => {
       preview.style.display = 'none'; // Preview & Index sollen verschwinden
       dynamic.innerHTML = `
         <div class="info-block">
-          <p>Gender Panik aka kitschkai aka Kai Krämer is a poet, performance artist & gender pirate. Currently based in Leipzig.</p>
+          <p>Gender Panik aka kitschkai aka Kai Krämer is a poet, performance artist & gender pirate. Currently based in Leipzig. Since re-discovering their visual art practice, a part also lies in creating visual artwork and design for people.</p>
           <p>Study biography: studying Fine Arts and Art Education (B.F.A.) at the Academy for Fine Arts in Stuttgart (Akademie der Bildenden Künste Stuttgart) plus German Studies at University of Stuttgart (2016-2021) / Body, Theory and the Poetics of the Performative (M.F.A.) at ABK Stuttgart (2021-2024) / German Studies and Literature Studies (M.A.) University Leipzig (since 2024)</p>
           <p>In the past years learning from and working with Discoteca Flaming Star (Cristina Gómez-Barrio & Wolfgang Mayer), Paula Kohlmann, Sergio Zevallos, Ines Kleesattel, Niall Jones, Liz Rosenfeld, Yara Richter, Toni Böckle, Stella Ruszkowski, Ludgi Porto, Moriz Stangl, Mona Gablenz, Mara Engelsberger, Aline Xavier Mineiro, Madeleine Bovidae, Una Herbst, Lea Lenk, Vesna Hetzel, Rainer Ganahl, Iris Eckert, Anne-Marie Herda and others.</p>
         </div>
