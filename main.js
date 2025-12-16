@@ -384,10 +384,10 @@ function showProjectPreview(key) {
 function buildUpcoming() {
   return `
     <div class="info-box">
-    <p>Upcoming Stuff / Aktuelles (für mehr Info zu einzelnen Events gerne eine Mail oder dm auf Instagram)
+    <p>Upcoming / Aktuelles (für mehr Info zu einzelnen Events gerne eine Mail oder dm auf Instagram)</p>
     <p><a href="https://www.instagram.com/dieski_44?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>6.12.25</strong> Performance in Leipzig @Dieski44</div></p>
     <p><a href="https://www.instagram.com/das_anarchistische_wohnzimmer?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>20.12.25</strong> Performance in Leipzig (dm for location)</div></p>
-    <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>6.12.25</strong> Release of text publication in JENNY Literaturmagazin</a></p>
+    <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>2026</strong> Release of text publication in JENNY Literaturmagazin</a></p>
      <p style="margin-top:10px; opacity:.6; font-size:.85rem;">(more soon)</p>
     </div>
   `;
