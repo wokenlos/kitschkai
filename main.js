@@ -141,8 +141,10 @@ function showProjectPreview(key) {
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
-      desc: 'A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig)',
+      desc: 'A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig)',
       images: [
+        { src: 'images/knutschen_5.jpg', meta: 'Dokumentation Performance helmut.space, 2025' },
+        { src: 'images/knutschen_4.jpg', meta: 'Dokumentation Performance Dieski44, 2025' },
         { src: 'images/knutschen_1.jpg', meta: 'Studioaufnahme, 2025' },
         { src: 'images/knutschen_2.jpg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' },
         { src: 'images/knutschen_3.jpg', meta: 'Dokumentation Performance Wxssxrschxdxn, 2025' },
