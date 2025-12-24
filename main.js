@@ -141,7 +141,7 @@ function showProjectPreview(key) {
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
-      desc: '[Stage Name also: Gender Panik] A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig)',
+      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig)',
       images: [
         { src: 'images/knutschen_6.jpg', meta: 'Studioaufnahme, 2025' },
         { src: 'images/knutschen_4.jpg', meta: 'Dokumentation Performance Dieski44, 2025' },
