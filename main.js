@@ -93,6 +93,12 @@ function buildProjectCategories() {
       <div class="project-item" data-key="cuteartsy">cute&artsy (2021-2023)</div>
       <div class="project-item" data-key="matratze">MATRATZE MAGAZIN (2018-2023)</div>
     </div>
+
+    <div class="category" data-cat="theater">Theater</div>
+    <div class="project-list" data-list="theater">
+      <div class="project-item" data-key="universum">Kostüm 'Das hässliche Universum' (2026)</div>
+      <div class="project-item" data-key="rombo">Regie-Assistenz 'ROMBO' (2026)</div>
+    </div>
   `;
 }
 
@@ -341,6 +347,22 @@ function showProjectPreview(key) {
       desc: 'Independent magazine for artitistic photo and text work by students, published once a year. We founded Matratze Magazin as a group of art and communication design students at ABK Stuttgart in 2018.',
       link: 'https://www.instagram.com/matratzemagazin/?hl=de',
       images: [
+      ]
+    }
+      'universum': {
+      title: 'Das hässliche Universum',
+      year: '2026',
+      desc: '(Projekt an der Akademie für Darstellende Künste Baden-Württemberg. Regie: Luca Hinrich. Premiere 12.2.26)',
+      link: '',
+      images: [ '... coming soon'
+      ]
+    }
+    'rombo': {
+      title: 'ROMBO',
+      year: '2026',
+      desc: '(Abchlussarbeit Regie von Jakob Altmayer an der Hochschule für Musik und Theater München. Premiere 4.3.26)',
+      link: '',
+      images: [ '... coming soon'
       ]
     }
   };
