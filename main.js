@@ -348,7 +348,7 @@ function showProjectPreview(key) {
       link: 'https://www.instagram.com/matratzemagazin/?hl=de',
       images: [
       ]
-    }
+    },
       'universum': {
       title: 'Das hässliche Universum',
       year: '2026',
@@ -356,7 +356,7 @@ function showProjectPreview(key) {
       link: '',
       images: [ '... coming soon'
       ]
-    }
+    },
     'rombo': {
       title: 'ROMBO',
       year: '2026',
