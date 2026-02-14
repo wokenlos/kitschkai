@@ -354,7 +354,10 @@ function showProjectPreview(key) {
       year: '2026',
       desc: '(Projekt an der Akademie für Darstellende Künste Baden-Württemberg. Regie: Luca Hinrich. Premiere 12.2.26)',
       link: '',
-      images: [ '... coming soon'
+      images: [ 
+         { src: 'images/universum_1.jpeg', meta: '(c) Steven Schulz 2026' },
+         { src: 'images/universum_2.jpeg', meta: '(c) Steven Schulz 2026' },
+         { src: 'images/universum_3.jpeg', meta: '(c) Steven Schulz 2026' }
       ]
     },
     'rombo': {
@@ -362,7 +365,8 @@ function showProjectPreview(key) {
       year: '2026',
       desc: '(Abchlussarbeit Regie von Jakob Altmayer an der Hochschule für Musik und Theater München. Premiere 4.3.26)',
       link: '',
-      images: [ '... coming soon'
+      images: [ 
+
       ]
     }
   };
