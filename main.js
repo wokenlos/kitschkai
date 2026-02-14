@@ -35,7 +35,7 @@ document.querySelectorAll('.start-links .link').forEach(el => {
       preview.style.display = 'none'; // Preview & Index sollen verschwinden
       dynamic.innerHTML = `
         <div class="info-block">
-          <p>Gender Panik aka kitschkai aka Kai Krämer is a poet, performance artist & gender pirate. Currently based in Leipzig. Since re-discovering their visual art practice, a part also lies in creating visual artwork and design for people.</p>
+          <p>Kai Leah Sascha Krämer aka kitschkai aka Gender Panik is an artist & gender pirate, currently based in Leipzig. Their practice covers text based performance, writing & poetry, visual art and literature studies. Active on and behind the stage, they developed, collaborated and assisted in theater productions, solo and group performances, plus making visual artworks, such as graphics and paintings.</p>
           <p>Study biography: studying Fine Arts and Art Education (B.F.A.) at the Academy for Fine Arts in Stuttgart (Akademie der Bildenden Künste Stuttgart) plus German Studies at University of Stuttgart (2016-2021) / Body, Theory and the Poetics of the Performative (M.F.A.) at ABK Stuttgart (2021-2024) / German Studies and Literature Studies (M.A.) University Leipzig (since 2024)</p>
           <p>In the past years learning from and working with Discoteca Flaming Star (Cristina Gómez-Barrio & Wolfgang Mayer), Paula Kohlmann, Sergio Zevallos, Ines Kleesattel, Niall Jones, Liz Rosenfeld, Yara Richter, Toni Böckle, Stella Ruszkowski, Ludgi Porto, Moriz Stangl, Mona Gablenz, Mara Engelsberger, Aline Xavier Mineiro, Madeleine Bovidae, Una Herbst, Lea Lenk, Vesna Hetzel, Rainer Ganahl, Iris Eckert, Anne-Marie Herda and others.</p>
         </div>
@@ -352,7 +352,7 @@ function showProjectPreview(key) {
       'universum': {
       title: 'Das hässliche Universum',
       year: '2026',
-      desc: '(Projekt an der Akademie für Darstellende Künste Baden-Württemberg. Regie: Luca Hinrich. Premiere 12.2.26)',
+      desc: '(Kostümbild und Maske mit Wiebke Müller. Projekt an der Akademie für Darstellende Künste Baden-Württemberg. Regie: Luca Heinrich. Premiere 12.2.26)',
       link: '',
       images: [ 
          { src: 'images/universum_1.jpeg', meta: '(c) Steven Schulz 2026' },
