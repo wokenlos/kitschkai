@@ -355,9 +355,9 @@ function showProjectPreview(key) {
       desc: '(Kostümbild und Maske mit Wiebke Müller. Projekt an der Akademie für Darstellende Künste Baden-Württemberg. Regie: Luca Heinrich. Premiere 12.2.26)',
       link: '',
       images: [ 
-         { src: 'images/universum_1.jpeg', meta: '(c) Steven Schulz 2026' },
-         { src: 'images/universum_2.jpeg', meta: '(c) Steven Schulz 2026' },
-         { src: 'images/universum_3.jpeg', meta: '(c) Steven Schulz 2026' }
+         { src: 'images/universum_1.jpg', meta: '(c) Steven Schulz 2026' },
+         { src: 'images/universum_2.jpg', meta: '(c) Steven Schulz 2026' },
+         { src: 'images/universum_3.jpg', meta: '(c) Steven Schulz 2026' }
       ]
     },
     'rombo': {
